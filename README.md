@@ -5,6 +5,12 @@ EWMA.py	- working "smoothing" function from Konnerth lab<br />
 
 ##### Working scripts for processing "new" data using PsychoPy and voltage-step timestamp system
 open_step_calcium.py - opens CSV file from FIJI/ImageJ and imports mean data, basic plotting, etc.<br />
+###### REQUIRES classes/functions contained in:
+* BinFile.py<br />
+* calcium_imaging_data_fast.py<br />
+* open_calcium_data.py<br />
+* StepCodeFile.py<br />
+
 
 ##### Misc working scripts for "slow" PR gratings (0.2Hz) and "fast" PR gratings (2Hz) from 2016
 misc_calcium_data_functions_jc.py<br />
