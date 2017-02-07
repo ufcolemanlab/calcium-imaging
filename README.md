@@ -12,7 +12,7 @@ open_step_calcium.py - opens CSV file from FIJI/ImageJ and imports mean data, ba
 * open_calcium_data_fast.py<br />
 * StepCodeFile.py<br />
 <br />
-<br />
+
 ##### Misc working scripts for "slow" PR gratings (0.2Hz) and "fast" PR gratings (2Hz) from 2016
 misc_calcium_data_functions_jc.py<br />
 open_calcium_interface.py<br />
@@ -24,12 +24,13 @@ analyze_calcium_fast_2.py<br />
 ###### REQUIRES classes/functions contained in:
 * calcium_imaging_data_fast.py<br />
 * open_calcium_data_fast.py<br />
+<br />
 analyze_calcium_slow_1.py<br />
 ###### REQUIRES classes/functions contained in:
 * calcium_imaging_data_slow.py<br />
 * open_calcium_data.py<br />
 <br />
-<br />
+
 ##### Test data for plotting ROIs on a TIF and example output
 RoiSet.tif<br />
 RoiSet.zip<br />
