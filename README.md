@@ -4,7 +4,7 @@ process_function_jc.py	- used to calculate deltaF/F ala Konnerth lab (Nature Pro
 EWMA.py	- working "smoothing" function from Konnerth lab<br />
 
 
-##### Working scripts for processing "new" data using PsychoPy and voltage-step timestamp system
+##### 2017: Working scripts for processing "new" data using PsychoPy and voltage-step timestamp system
 open_step_calcium.py - opens CSV file from FIJI/ImageJ and imports mean data, basic plotting, etc.<br />
 ###### REQUIRES classes/functions contained in:
 * BinFile.py<br />
@@ -13,7 +13,7 @@ open_step_calcium.py - opens CSV file from FIJI/ImageJ and imports mean data, ba
 * StepCodeFile.py<br />
 
 
-##### Misc working scripts for "slow" PR gratings (0.2Hz) and "fast" PR gratings (2Hz) from 2016
+##### 2016: Misc working scripts for "slow" PR gratings (0.2Hz) and "fast" PR gratings (2Hz) from 2016
 misc_calcium_data_functions_jc.py<br />
 open_calcium_interface.py<br />
 open_calcium_interface_4.py<br />
