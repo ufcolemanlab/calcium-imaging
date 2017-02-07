@@ -13,7 +13,7 @@ open_step_calcium.py - opens CSV file from FIJI/ImageJ and imports mean data, ba
 * StepCodeFile.py<br />
 
 
-##### 2016: Misc working scripts for "slow" PR gratings (0.2Hz) and "fast" PR gratings (2Hz) from 2016
+##### 2016: Misc working scripts for "slow" PR gratings (0.2Hz) and "fast" PR gratings (2Hz)
 misc_calcium_data_functions_jc.py<br />
 open_calcium_interface.py<br />
 open_calcium_interface_4.py<br />
