@@ -1,6 +1,5 @@
 # calcium-imaging
-##### Misc code for analyzing and visualizing two-photon calcium data
-
+##### Working functions for processing two-photon calcium imaging intensity data
 process_function_jc.py	- used to calculate deltaF/F ala Konnerth lab (Nature Protocols)<br />
 EWMA.py	- working "smoothing" function from Konnerth lab<br />
 <br />
