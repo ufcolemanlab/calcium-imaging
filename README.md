@@ -2,7 +2,10 @@
 ##### Working functions for processing two-photon calcium imaging intensity data
 process_function_jc.py	- used to calculate deltaF/F ala Konnerth lab (Nature Protocols)<br />
 EWMA.py	- working "smoothing" function from Konnerth lab<br />
-<br />
+
+##### Working scripts for processing "new" data using PsychoPy and voltage-step timestamp system
+open_step_calcium.py - opens CSV file from FIJI/ImageJ and imports mean data, basic plotting, etc.<br />
+
 ##### Misc working scripts for "slow" PR gratings (0.2Hz) and "fast" PR gratings (2Hz) from 2016
 misc_calcium_data_functions_jc.py<br />
 open_calcium_interface.py<br />
